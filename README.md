@@ -2,7 +2,7 @@
 
 <div align="center">
   <b>🛠Tech Steck🛠</b><br><br>
-  <b>Techs that l'v used at least once</b>
+  <a>Techs that l'v used at least once</a>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 </div>
      
