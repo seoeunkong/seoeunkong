@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9cf0de&height=300&section=header&text=Hello👋%20I'm%20Seoeun&fontSize=70&fontColor=ffffff)
 
 <div align="center">
-  <b>🛠Tech Steck🛠</b><br><br>
+  <b>🛠Tech Steck🛠</b><br>
   <a>Techs that l'v used at least once</a><br><br>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
