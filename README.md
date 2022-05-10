@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffe1e1&height=300&section=header&text=Hello👋%20I'm%20Seoeun&fontSize=70&fontColor=ffffff)
-<br><br>
-  <img width="80%" src="https://i.pinimg.com/originals/e2/83/d1/e283d168b7b993273429e71bb492d3f0.gif"/>
-  <br><br>
+
 <div align="center">
   
   <b>🛠 Tech Steck 🛠</b><br>
