@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=9cf0de&height=300&section=header&text=Hello👋%20I'm%20Seoeun&fontSize=70&fontColor=ffffff)
-<br><br>
-<img width="80%" src="https://i.pinimg.com/originals/e2/83/d1/e283d168b7b993273429e71bb492d3f0.gif"/>
-<br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffe1e1&height=300&section=header&text=Hello👋%20I'm%20Seoeun&fontSize=70&fontColor=ffffff)
 
 <div align="center">
+  <br><br>
+  <img width="80%" src="https://i.pinimg.com/originals/e2/83/d1/e283d168b7b993273429e71bb492d3f0.gif"/>
+  <br><br>
+  
   <b>🛠 Tech Steck 🛠</b><br>
   <a>Techs that l'v used at least once</a><br><br>
     <img src="https://img.shields.io/badge/PYTHON-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
