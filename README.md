@@ -1,6 +1,6 @@
 <div align="center">
-  <b>맘마미아</b>
-  ### Hi there 👋
+  #Hi there 👋
+  I'm Seoeun
 </div>
 
 
