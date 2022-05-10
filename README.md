@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9cf0de&height=300&section=header&text=Hello👋%20I'm%20Seoeun&fontSize=70&fontColor=ffffff)
 
 <div align="center">
-  <b>Tech Steck<b><br>
+  <b>Tech Steck<b><br><br>
     <a>hi<a>
 </div>
      
