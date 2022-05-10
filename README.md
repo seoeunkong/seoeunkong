@@ -2,8 +2,9 @@
 
 <div align="center">
   <b>🛠Tech Steck🛠</b><br><br>
-  <a>Techs that l'v used at least once</a>
+  <a>Techs that l'v used at least once</a><br>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 </div>
      
 
