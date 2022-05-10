@@ -18,7 +18,9 @@
       <img src="https://img.shields.io/badge/UNITY-adafb3?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
       <br><br><br>
       <b>🌱 Working On 🌱</b><br><br>
-      <img src="https://img.shields.io/badge/GraduationProject-f09081?style=flat-square"/></a>&nbsp
+      <img src="https://img.shields.io/badge/Graduation_Project-f09081?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/IOS_Project-f09081?style=flat-square&logo=iOS&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/WEB BACKEND_Project-58b1e8?style=flat-square"/></a>&nbsp
 </div>
      
 
