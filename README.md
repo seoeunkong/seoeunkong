@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9cf0de&height=300&section=header&text=Hello👋%20I'm%20Seoeun&fontSize=70&fontColor=ffffff)
 
-
+<div align="center">
+  <b>SNS<b>
+</div>
 
 <!--
-<div align="center">
-  #Hi there 👋
-  I'm Seoeun
-</div>
+
 
 **seoeunkong/seoeunkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
