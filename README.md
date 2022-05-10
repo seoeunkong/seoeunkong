@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/IOS_Project-a9eb7a?style=flat-square"/></a>
       <img src="https://img.shields.io/badge/WEB BACKEND_Project-58b1e8?style=flat-square"/></a>
       <img src="https://img.shields.io/badge/VR GAME_Project-806de8?style=flat-square"/></a>
-      <br><br><br>
+      <br><br>
       <b>✨ SNS ✨</b><br><br>
       <a href="https://www.instagram.com/s._.exn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
       <a href="https://www.facebook.com/profile.php?id=100030493934298"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
