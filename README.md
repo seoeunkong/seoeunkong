@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9cf0de&height=300&section=header&text=Hello👋%20I'm%20Seoeun&fontSize=70&fontColor=ffffff)
 
 <div align="center">
-  <b>🛠Tech Steck🛠</b><br>
+  <b>🛠 Tech Steck 🛠</b><br>
   <a>Techs that l'v used at least once</a><br><br>
     <img src="https://img.shields.io/badge/PYTHON-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/C-fdffa3?style=flat-square"/></a>&nbsp
@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/UNITY-adafb3?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
       <br><br><br>
-      <b>🌱Working On🌱</b><br>
+      <b>🌱 Working On 🌱</b><br>
 </div>
      
 
