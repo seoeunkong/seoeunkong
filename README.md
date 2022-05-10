@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
       <br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-      <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/UNITY-adafb3?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
 </div>
      
 
