@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/UNITY-adafb3?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
       <br><br><br>
-      <b>🌱 Working On 🌱</b><br>
+      <b>🌱 Working On 🌱</b><br><br>
       <img src="https://img.shields.io/badge/GraduationProject-f09081?style=flat-square"/></a>&nbsp
 </div>
      
