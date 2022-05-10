@@ -2,8 +2,8 @@
 
 <div align="center">
   <b>SNS<b>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 </div>
+     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
 <!--
 
