@@ -11,6 +11,9 @@
       <img src="https://img.shields.io/badge/SWIFT-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/HTML-fc9c2d?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
+      <br>
+      <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 </div>
      
 
