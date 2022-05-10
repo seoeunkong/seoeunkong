@@ -8,7 +8,8 @@
     <img src="https://img.shields.io/badge/C++-cb95f5?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
       <br>
-      <img src="https://img.shields.io/badge/C++-AA5099?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 </div>
      
 
