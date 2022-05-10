@@ -31,11 +31,8 @@
       <b>✨ SNS ✨</b><br><br>
       <a href="https://www.instagram.com/s._.exn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
       <a href="https://www.facebook.com/profile.php?id=100030493934298"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-      ![seoeunkong's github stats](https://github-readme-stats.vercel.app/api?username=
-seoeunkong&show_icons=true)
-      [![seoeunkong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=
-seoeunkong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/
-seoeunkong)
+      <br><br>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoeunkong&show_icons=true&theme=radical)
 
 </div>
      
